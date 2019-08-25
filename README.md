@@ -4,6 +4,9 @@
 安装：
 git clone https://github.com/zhaojiyu/ss-fly
 
+授权：
+chmod +x ss-fly/ss-fly.sh
+
 设置：
 ss-fly/ss-fly.sh -i 112233 80
 
